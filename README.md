@@ -1,0 +1,2 @@
+# mjblog
+my first blog
